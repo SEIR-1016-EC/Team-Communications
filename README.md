@@ -27,4 +27,4 @@
 
 ## **Shout Outs**
 
-Another thing we want to stress is the Shout Out. Any time one of your classmates gives you an "A-ha" moment or knocks a lab out of the park, please share it with the rest of the class on the `#seir-ec-2-21-resources` channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the Shout Out. Any time one of your classmates gives you an "A-ha" moment or knocks a lab out of the park, please share it with the rest of the class on the `#seir-1016-ec-resources` channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
