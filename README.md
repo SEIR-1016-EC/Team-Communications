@@ -2,7 +2,7 @@
 
 ## ****Communication Tools****
 
-### ****Slack****
+### ****Slack Channels****
 
 - `#seir-1016-ec-classroom` - global lessons and resources ⭐
 - `#seir-1016-ec-debugging` - global lesson questions / support 
