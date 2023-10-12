@@ -4,11 +4,11 @@
 
 ### ****Slack Channels****
 
-- `#seir-1016-ec-classroom` - global lessons and resources ⭐
-- `#seir-1016-ec-debugging` - global lesson questions / support 
-- `#seir-1016-ec-outcomes` - outcomes classroom resources ⭐
-- `#seir-1016-ec-partytime` -  sfw memes / lulz / music links / playlists ⭐
-- `#seir-1016-ec-resources` -  useful resources for extended study / workflow hacks ⭐
+- `#sebr-1016-ec-classroom` - global lessons and resources ⭐
+- `#sebr-1016-ec-debugging` - global lesson questions / support 
+- `#sebr-1016-ec-outcomes` - outcomes classroom resources ⭐
+- `#sebr-1016-ec-partytime` -  sfw memes / lulz / music links / playlists ⭐
+- `#sebr-1016-ec-resources` -  useful resources for extended study / workflow hacks ⭐
 
 ### **How To Communicate in one of the outrun channels:**
 
@@ -27,4 +27,4 @@
 
 ## **Shout Outs**
 
-Another thing we want to stress is the Shout Out. Any time one of your classmates gives you an "A-ha" moment or knocks a lab out of the park, please share it with the rest of the class on the `#seir-1016-ec-resources` channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
+Another thing we want to stress is the Shout Out. Any time one of your classmates gives you an "A-ha" moment or knocks a lab out of the park, please share it with the rest of the class on the `#sebr-1016-ec-resources` channel. It can be anything in the course, even if it's not related to the current topic, and can also be something we covered a few weeks ago.
